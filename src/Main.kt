@@ -1,6 +1,6 @@
 fun main() {
 
-    val array = arrayOf(5,2,7,6,8,3,4,3)
+    val array = arrayOf(5,2,7,6,8,3,4)
     var result = checkLocal(array)
     println("Локальных минимумов в массиве: $result")
 }
