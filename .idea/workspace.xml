@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c84843-41ff-498f-a20a-e22465978e42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/returnHW1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    <list default="true" id="66c84843-41ff-498f-a20a-e22465978e42" name="Changes" comment="Задание 1 return">
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/resultb0ss/returnHW1.git",
+    "accountId": "1bca492a-049d-4872-83e1-fd945df519d9"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -50,6 +47,72 @@
       <option name="presentableId" value="Default" />
       <updated>1724681301740</updated>
     </task>
+    <task id="LOCAL-00001" summary="Задание 1 RETURN">
+      <option name="closed" value="true" />
+      <created>1724682282926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724682282926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Задание 1 RETURN">
+      <option name="closed" value="true" />
+      <created>1724682321783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724682321783</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задание 1">
+      <option name="closed" value="true" />
+      <created>1724682500593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724682500593</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задание 1 return">
+      <option name="closed" value="true" />
+      <created>1724682530366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724682530366</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задание 1 return">
+      <option name="closed" value="true" />
+      <created>1724682554057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724682554057</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задание 1 return">
+      <option name="closed" value="true" />
+      <created>1724682568730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724682568730</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание 1 RETURN" />
+    <MESSAGE value="Задание 1" />
+    <MESSAGE value="Задание 1 return" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 1 return" />
   </component>
 </project>
